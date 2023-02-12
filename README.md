@@ -1,27 +1,55 @@
-# ProjetoBuzzfeed
+<h1 align="center"> Projeto Buzzfeed - Angular </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<p align="center">
+Projeto desenvolvido no Bootcamp Cloud Fullstack, promovido pela DIO para ensino com foco em Angular.
+</p>
 
-## Development server
+<p align="center">
+<a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#memo-licença">Licença</a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+<img alt="Página da pergunta Projeto Buzzfeed" src="./.github/preview1.JPG" width="100%">
+</p>
+<p align="center">
+Imagem da tela de uma pegunta do Projeto Buzzfeed (Imagem 1).
+</p>
 
-## Build
+<br>
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p align="center">
+<img alt="Página do resultado Projeto Buzzfeed" src="./.github/preview2.JPG" width="100%">
+</p>
+<p align="center">
+Imagem da tela de resultado do Projeto Buzzfeed (Imagem 2).
+</p>
 
-## Running unit tests
+## Tecnologias
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Running end-to-end tests
+- HTML e CSS
+- JavaScript/TypeScript
+- Angular
+- Git e Github
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Projeto
 
-## Further help
+O Projeto Buzzfeed é um projeto de um clone do site de mesmo nome, em que o usuário responde perguntas sobre um assunto, e em seguida, mostra o resultado, com base nas alterativas selecionadas.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## :memo: Licença
+
+Esse projeto está sob licença MIT.
+
+---
+
+Projeto realizado pela DIO e feito por Victor Pimenta. [LinkedIn](https://www.linkedin.com/in/victor-cardoso-pimenta-0250371a0/)
